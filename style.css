@@ -5,13 +5,12 @@
 }
 
 @font-face {
-    font-family: formal;
-    src: url(./assets/Poppins-Medium.ttf);
+    font-family:'Poppins';
+    src: url(./assets/fonts/Poppins-Medium.ttf);
 }
 
 body{
-    font-family: formal;
-  
+    font-family: 'Poppins', sans-serif;
 }
 
 html{
